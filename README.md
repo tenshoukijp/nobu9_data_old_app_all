@@ -1,2 +1,4 @@
-# nobu9_data_old_app_all
-嵐世記 - データ - アプリ全体（古いDVD版）
+# 嵐世記 - データ - DVD版の構成（古いデータ用に）
+
+![嵐世記](https://img.shields.io/badge/嵐世記-with_PK-6479ff.svg)
+
